@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de QR Code PIX",
+  "description": "Um aplicativo para gerar QR codes PIX de forma rápida e fácil. Configure sua chave PIX uma vez e gere cobranças com qualquer valor.",
+  "requestFramePermissions": []
+}

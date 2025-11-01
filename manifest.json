@@ -1,0 +1,17 @@
+{
+  "name": "Gerador de QR Code PIX",
+  "short_name": "Gerador PIX",
+  "description": "Um aplicativo para gerar QR codes PIX de forma rápida e fácil. Configure sua chave PIX uma vez e gere cobranças com qualquer valor.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
